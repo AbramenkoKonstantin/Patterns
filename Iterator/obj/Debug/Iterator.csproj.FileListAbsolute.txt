@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\Patterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\kosta\source\repos\Patterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\kosta\source\repos\Patterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\kosta\source\repos\Patterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Patterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\kosta\source\repos\Patterns\Iterator\obj\Debug\Iterator.pdb

@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\Patterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\kosta\source\repos\Patterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\kosta\source\repos\Patterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\kosta\source\repos\Patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Patterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\kosta\source\repos\Patterns\Strategy\obj\Debug\Strategy.pdb

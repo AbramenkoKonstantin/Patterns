@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\Patterns\Factory Method\bin\Debug\Factory Method.exe.config
+C:\Users\kosta\source\repos\Patterns\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\kosta\source\repos\Patterns\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\kosta\source\repos\Patterns\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Patterns\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\kosta\source\repos\Patterns\Factory Method\obj\Debug\Factory Method.pdb
